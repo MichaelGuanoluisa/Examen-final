@@ -6,6 +6,9 @@ Examen Final de Análisis de Datos
 
 
 2.- Crear un script que inserte n documentos con elementos al azar en CouchDB, donde uno de los campos debe ser un número. Sobre esta base de datos, crear una vista que emita mediante "curl" un json con los elementos en orden descendente.
+  
+  Cree un script que recibe datos de facebook de autos y los almaceno en una base de datos llamada autos en couchdb la misma que es leida con curl.
+  ![image](https://user-images.githubusercontent.com/66236038/135545504-f85db329-d091-4558-a95e-cc6ee706ac9c.png)
 
 
 
