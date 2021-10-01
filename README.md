@@ -34,7 +34,27 @@ Vemos que los que sobrevivieron pagaron un total de 16,551.229399999997 es el to
 
 
 # 4.- Crear un modelo predictivo mediante RapidMiner o Knime, sobre el dataset del titanic, indique 3 conclusiones.
+en esta imagen se levanto de un modelo predictivo. 
+concluyendo:
+mayor edad: 70.5
+las personas de mayor edad son las que menos probabilidad tenian de sobrevivir
+esas personas eran hombres
+![image](https://user-images.githubusercontent.com/66236038/135549586-51954921-74ff-4552-a3ac-8963932e535e.png)
+
 
 
 # 5.- Cree un dashboard sobre un dataset de COVID-19 con al menos 5 visualizaciones con sus respectivas conclusiones. Puede usar, Tableau, PowerBI o Kibana.
+promedio de casos confirmados a nivel mundial
+![image](https://user-images.githubusercontent.com/66236038/135549768-0ec09949-3e09-4d22-b7f8-1e28a931c59b.png)
+Promedio de muertes
+![image](https://user-images.githubusercontent.com/66236038/135549827-0a71fc5f-1307-442a-8637-6d4a42048187.png)
+Paises con numero de muertes
+![image](https://user-images.githubusercontent.com/66236038/135549899-ccf9d635-8837-4577-8d7e-7e43b6a1695a.png)
+pises con numero de casos confirmados
+![image](https://user-images.githubusercontent.com/66236038/135549928-4bf67ae7-68f5-450c-a1d4-39e4a76ba8af.png)
+casos confirmados por paises y regiones 
+![image](https://user-images.githubusercontent.com/66236038/135549955-29cedbd0-0a78-4e84-96fc-e9c5d2d7e0b2.png)
+
+
+
 
